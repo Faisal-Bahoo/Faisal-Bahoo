@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faisal-Bahoo
 - 👀 I’m interested in automation, data analysis, software and website development. 
-- 🌱 I’m currently learning more about efficient LeetCode problem solutions. 
+- 🌱 I’m currently learning about efficient algorithms and problem solving. 
 - 💞️ I’m looking to collaborate on positive projects that bring value to our world. 
 - 📫 How to reach me: my website by clicking my name -> <a href='HTTPS://www.FaisalBahoo.com'>Faisal Bahoo</a>.
 
